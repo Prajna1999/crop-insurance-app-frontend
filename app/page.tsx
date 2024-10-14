@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Leaf, Shield, ChevronRight } from 'lucide-react';
 import Button from "@/components/button/button";
 export default function Home() {
